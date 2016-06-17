@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZAIExamples", "ZAIExamples\ZAIExamples.vcxproj", "{26B2656E-1252-418C-8B9E-AF38DA079A3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Steering", "F:\Jerome\VCProjects\VS2010\Buckland_Chapter3-Steering Behaviors\Steering.vcxproj", "{EE007DA3-D5E6-4E7C-84BA-A1753F852497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZFrame", "ZFrame\ZFrame.vcxproj", "{341C8896-2B7E-443E-BA33-93F26C328DC6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TsiU", "F:\Jerome\VCProjects\tsiu-blogver\src\Make\TsiU.vcxproj", "{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug NoDX|Win32 = Debug NoDX|Win32
+		Debug|Win32 = Debug|Win32
+		Release NoDX|Win32 = Release NoDX|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Debug NoDX|Win32.ActiveCfg = Debug|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Debug NoDX|Win32.Build.0 = Debug|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Debug|Win32.Build.0 = Debug|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Release NoDX|Win32.ActiveCfg = Release|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Release NoDX|Win32.Build.0 = Release|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Release|Win32.ActiveCfg = Release|Win32
+		{26B2656E-1252-418C-8B9E-AF38DA079A3F}.Release|Win32.Build.0 = Release|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Debug NoDX|Win32.ActiveCfg = Debug|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Debug NoDX|Win32.Build.0 = Debug|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Debug|Win32.Build.0 = Debug|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Release NoDX|Win32.ActiveCfg = Release|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Release NoDX|Win32.Build.0 = Release|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Release|Win32.ActiveCfg = Release|Win32
+		{EE007DA3-D5E6-4E7C-84BA-A1753F852497}.Release|Win32.Build.0 = Release|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Debug NoDX|Win32.ActiveCfg = Debug|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Debug NoDX|Win32.Build.0 = Debug|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Debug|Win32.Build.0 = Debug|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Release NoDX|Win32.ActiveCfg = Release|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Release NoDX|Win32.Build.0 = Release|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Release|Win32.ActiveCfg = Release|Win32
+		{341C8896-2B7E-443E-BA33-93F26C328DC6}.Release|Win32.Build.0 = Release|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Debug NoDX|Win32.ActiveCfg = Debug NoDX|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Debug NoDX|Win32.Build.0 = Debug NoDX|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Debug|Win32.Build.0 = Debug|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Release NoDX|Win32.ActiveCfg = Release NoDX|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Release NoDX|Win32.Build.0 = Release NoDX|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Release|Win32.ActiveCfg = Release|Win32
+		{F0CA1544-01BB-4EC9-A683-E9278FE2AFCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
