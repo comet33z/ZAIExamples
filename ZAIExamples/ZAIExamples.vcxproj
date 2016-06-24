@@ -53,6 +53,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\jeromezhan\Documents\GitHub\ZAIExamples\ZMisc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -79,6 +80,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\ZMisc\Vector2D.h" />
+    <ClInclude Include="EntityBase.h" />
+    <ClInclude Include="GameWorld.h" />
+    <ClInclude Include="MovingEntity.h" />
+    <ClInclude Include="Vehicle.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\ZMisc\Vector2D.cpp" />

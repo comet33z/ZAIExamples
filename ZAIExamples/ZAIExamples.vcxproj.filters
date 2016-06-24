@@ -21,6 +21,18 @@
     <ClInclude Include="..\ZMisc\Vector2D.h">
       <Filter>misc</Filter>
     </ClInclude>
+    <ClInclude Include="GameWorld.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vehicle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingEntity.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\ZMisc\Vector2D.cpp">
